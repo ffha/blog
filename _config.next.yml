@@ -575,7 +575,7 @@ comments:
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
-  lazyload: false
+  lazyload: true
   # Modify texts or order for any naves, here are some examples.
   nav:
     #disqus:
@@ -583,6 +583,19 @@ comments:
     #  order: -1
     #gitalk:
     #  order: -2
+# Waline
+waline:
+  enable: true
+
+  # Waline server address url, you should set this to your own link
+  serverURL: https://blog-comment-api.090124.xyz/
+
+  # Waline library CDN url, you can set this to your preferred CDN
+  libUrl: https://cdn.bootcdn.net/ajax/libs/waline/2.6.1/waline.min.js
+
+  # Waline CSS styles CDN url, you can set this to your preferred CDN
+  cssUrl: https://cdn.bootcdn.net/ajax/libs/waline/2.6.1/waline.min.css
+  login: enable
 
 # Disqus
 # For more information: https://disqus.com
