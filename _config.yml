@@ -109,3 +109,19 @@ search:
   field: post
   content: true
   format: html
+
+waline:
+  # New! Whether enable this plugin
+  enable: true
+
+  # Waline server address url, you should set this to your own link
+  serverURL: https://blog-comment-api.090124.xyz/
+
+  # Waline library CDN url, you can set this to your preferred CDN
+  libUrl: https://cdn.bootcdn.net/ajax/libs/waline/2.6.1/waline.min.js
+
+  # Waline CSS styles CDN url, you can set this to your preferred CDN
+  cssUrl: https://cdn.bootcdn.net/ajax/libs/waline/2.6.1/waline.min.css
+  login: enable
+
+
