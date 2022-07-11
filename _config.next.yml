@@ -100,8 +100,9 @@ menu:
   #tags: /tags/ || fa fa-tags
   分类: /categories/ || fa fa-th
   文章: /archives/ || fa fa-archive
+  RSS: /feed.xml || fa fa-rss
   #schedule: /schedule/ || fa fa-calendar
-  #sitemap: /sitemap.xml || fa fa-sitemap
+  Atom: /atom.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
 
 # Enable / Disable menu icons / item badges.
