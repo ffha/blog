@@ -97,7 +97,7 @@ open_graph:
 menu:
   首页: / || fa fa-home
   #about: /about/ || fa fa-user
-  #tags: /tags/ || fa fa-tags
+  标签: /tags/ || fa fa-tags
   分类: /categories/ || fa fa-th
   文章: /archives/ || fa fa-archive
   RSS: /feed.xml || fa fa-rss
