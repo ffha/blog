@@ -36,8 +36,8 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
 
@@ -338,7 +338,7 @@ calendar:
 
 # Preconnect CDN for fonts and plugins.
 # For more information: https://www.w3.org/TR/resource-hints/#preconnect
-preconnect: false
+preconnect: true
 
 # Set the text alignment in posts / pages.
 text_align:
@@ -459,7 +459,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: Noto Sans
 
 
 # ---------------------------------------------------------------
