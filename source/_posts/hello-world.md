@@ -3,7 +3,7 @@ title: 第一篇文章
 tags: first
 ---
 欢迎来到 [Hexo](https://hexo.io/)! 这是你第一篇文章。 阅读 [文档](https://hexo.io/docs/) 以获得更多信息。 如果你在使用Hexo时有任何问题, 你可以在 [troubleshooting](https://hexo.io/docs/troubleshooting.html)找到，你也可以在 [GitHub](https://github.com/hexojs/hexo/issues)上提出问题。
-
+<!--more-->
 ## 快速开始
 
 ### 创建新文章
