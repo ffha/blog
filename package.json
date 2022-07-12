@@ -9,7 +9,7 @@
     "start": "hexo server"
   },
   "hexo": {
-    "version": "5.4.2"
+    "version": "6.2.0"
   },
   "dependencies": {
     "@waline/hexo-next": "^3.0.1",
