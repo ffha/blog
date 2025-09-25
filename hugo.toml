@@ -37,3 +37,7 @@ pageRef = '/search'
 [[menu.main]]
 name = '存档'
 pageRef = '/archives'
+
+[[menu.main]]
+name = '关于'
+pageRef = '/about'
