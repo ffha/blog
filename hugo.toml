@@ -3,6 +3,12 @@ languageCode = 'zh-cn'
 title = '天想'
 mainSections = ["archives"]
 defaultContentLanguage = "zh"
+ignoreFiles = ["\\.gitkeep/"]
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+excludeFiles = '.gitkeep'
 [[module.imports]]
 path = 'github.com/adityatelange/hugo-PaperMod'
 
@@ -22,7 +28,7 @@ name = 'github'
 url = 'https://github.com/ffha'
 [[params.socialIcons]]
 name = 'bilibili'
-url = 'https://space.bilibili.com/616301951s'
+url = 'https://space.bilibili.com/616301951'
 
 [markup.goldmark.renderer]
 unsafe = true
