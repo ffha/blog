@@ -3,7 +3,6 @@ languageCode = 'zh-cn'
 title = '天想'
 mainSections = ["archives"]
 defaultContentLanguage = "zh"
-ignoreFiles = ["\\.gitkeep/"]
 
 [[module.mounts]]
 source = 'static'
