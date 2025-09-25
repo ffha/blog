@@ -12,7 +12,6 @@ home = [ "HTML", "RSS", "JSON" ]
 [params]
 env = "production"
 defaultTheme = "auto"
-ShowBreadCrumbs = true
 [params.assets]
 disableHLJS = true
 [params.homeInfoParams]
