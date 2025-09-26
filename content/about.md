@@ -17,3 +17,5 @@ title = '关于'
 发表评论请使用电子邮件。
 
 地址：[fthasdd@largerworld.cc](mailto:fthasdd@largerworld.cc)
+
+Although the body in the jail, the spirit have the larger world.
