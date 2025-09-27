@@ -19,3 +19,12 @@ title = '关于'
 地址：[fthasdd@largerworld.cc](mailto:fthasdd@largerworld.cc)
 
 Although the body in the jail, the spirit have the larger world.
+
+<img src="/not-by-ai-white.svg" class="not-by-ai-image">
+<style>
+body.dark {
+    img.not-by-ai-image {
+        content: url("/not-by-ai-black.svg");
+    }
+}
+</style>
