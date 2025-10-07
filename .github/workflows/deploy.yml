@@ -19,6 +19,8 @@ jobs:
         run: hugo
       - name: Deploy to Cloudflare
         uses: cloudflare/wrangler-action@v3
+        env:
+          WRANGLER_SEND_METRICS: false
         with:
           wranglerVersion: '4.41.0'
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
