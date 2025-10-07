@@ -22,6 +22,6 @@ jobs:
         env:
           WRANGLER_SEND_METRICS: false
         with:
-          wranglerVersion: '4.41.0'
+          wranglerVersion: '4.42.0'
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
