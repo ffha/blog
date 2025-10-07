@@ -18,6 +18,8 @@ home = [ "HTML", "RSS", "JSON" ]
 [params]
 env = "production"
 defaultTheme = "auto"
+author = 'Alan Feng'
+ShowReadingTime = true
 [params.assets]
 disableHLJS = true
 [params.homeInfoParams]
@@ -26,6 +28,15 @@ Content = '碎碎念罢了。和尚念经罢了。'
 [[params.socialIcons]]
 name = 'github'
 url = 'https://github.com/ffha'
+[[params.socialIcons]]
+name = 'X'
+url = 'https://x.com/ffha090124'
+[[params.socialIcons]]
+name = 'bluesky'
+url = 'https://bsky.app/profile/largerworld.cc'
+[[params.socialIcons]]
+name = 'RSS'
+url = '/index.xml'
 [[params.socialIcons]]
 name = 'bilibili'
 url = 'https://space.bilibili.com/616301951'
