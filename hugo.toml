@@ -4,6 +4,7 @@ title = '天想'
 mainSections = ["archives"]
 defaultContentLanguage = "zh"
 copyright = "© 2025 ffha. All Rights Reserved."
+hasCJKLanguage = true
 
 [[module.mounts]]
 source = 'static'
