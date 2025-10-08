@@ -21,7 +21,7 @@ title = '关于'
 Although the body in the jail, the spirit have the larger world.
 
 ## 隐私政策
-本网站并不收集您的任何信息。但本网站托管于Cloudflare，所以还请参阅[他们的隐私政策](https://www.cloudflare.com/privacypolicy/)
+本网站并不收集您的任何信息。但本网站托管于Cloudflare，所以还请参阅[他们的隐私政策](https://www.cloudflare.com/privacypolicy/)。
 
 <img src="/not-by-ai-white.svg" class="not-by-ai-image">
 <style>
