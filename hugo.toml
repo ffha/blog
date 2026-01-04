@@ -39,6 +39,9 @@ url = 'https://bsky.app/profile/largerworld.cc'
 name = 'RSS'
 url = '/index.xml'
 [[params.socialIcons]]
+name = 'matrix'
+url = 'https://matrix.to/#/@fthasdd:lunacia.cc'
+[[params.socialIcons]]
 name = 'bilibili'
 url = 'https://space.bilibili.com/616301951'
 
