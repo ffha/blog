@@ -4,3 +4,7 @@ compatibility_date = "2025-09-25"
 [assets]
 directory = "./public/"
 not_found_handling = '404-page'
+
+[[routes]]
+pattern = "www.largerworld.cc"
+custom_domain = true
