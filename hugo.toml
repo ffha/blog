@@ -47,6 +47,7 @@ url = 'https://space.bilibili.com/616301951'
 
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
 
 [markup.highlight]
 style = "github"

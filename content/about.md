@@ -11,7 +11,7 @@ title = '关于'
 
 ~（三分钟热度）~
 
-
+「百优解」[^1]并不解百忧。
 这个博客目前没有评论系统。（嗯。）
 
 发表评论请使用电子邮件。
@@ -20,6 +20,9 @@ title = '关于'
 
 Although the body in the jail, the spirit have the larger world.
 
+Altough the spirit have a mood disorder, it's always my spirit.
+
+[^1]:原文如此。
 ## 隐私政策
 本网站并不收集您的任何信息。但本网站托管于Cloudflare，所以还请参阅[他们的隐私政策](https://www.cloudflare.com/privacypolicy/)。
 
