@@ -1,4 +1,4 @@
 ---
-title: "存档"
-layout: "archives"
+layout: archives
+title: 存档
 ---
