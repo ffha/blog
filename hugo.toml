@@ -40,7 +40,7 @@ name = 'RSS'
 url = '/index.xml'
 [[params.socialIcons]]
 name = 'matrix'
-url = 'https://matrix.to/#/@fthasdd:lunacia.cc'
+url = 'https://matrix.to/#/@fthasdd:k4mi.com'
 [[params.socialIcons]]
 name = 'bilibili'
 url = 'https://space.bilibili.com/616301951'
