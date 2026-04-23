@@ -20,6 +20,7 @@ home = [ "HTML", "RSS", "JSON" ]
 env = "production"
 defaultTheme = "auto"
 author = 'Alan Feng'
+description = "天想——某个人的碎碎念……"
 ShowReadingTime = true
 [params.assets]
 disableHLJS = true
