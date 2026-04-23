@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /cdn-cgi/
 
-Sitemap: https://www.largerworld.cc/sitemap.xml
+Sitemap: https://www.k4mi.com/sitemap.xml
