@@ -22,7 +22,7 @@ Although the body in the jail, the spirit have the larger world.
 
 Altough the spirit have a mood disorder, it's always my spirit.
 
-<iframe src="https://bigfivepersonality.me/zh/embed/J5IDKUsw" width="440" height="500" frameborder="0"></iframe>
+
 
 [^1]:原文如此。
 ## 隐私政策 {#privacy-policy}
