@@ -22,6 +22,8 @@ defaultTheme = "auto"
 author = 'Alan Feng'
 description = "天想——某个人的碎碎念……"
 ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowBreadCrumbs = true
 [params.assets]
 disableHLJS = true
 [params.homeInfoParams]
